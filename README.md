@@ -36,7 +36,7 @@ Omnifood: This folder conatins mutiple sub folders and files.
   ii) Img: This folder contains all the images added into the html file directly.  
   iii) js: This folder contains all the javascript programs (scripts).
 2. Vendors: This folder contains mutiple sub folders and files.   
-  i) CSS: This folder conatins 3 CSS files, one to set up a grid, one to normalize the webpage on all devices and one to insert all the icons used in the webpage.  
+  i) CSS: This folder conatins 3 CSS files, one to set up a grid, one to normalize the webpage on all devices, one to get the animation features and one to insert all the icons used in the webpage.  
   ii) Fonts: This folder conatins the fonts used in the webpage which are imported into the html file.  
   iii) js: This folder contains all the javascript programs (scripts) taken from other vendors.
 3. HTML file: The index.html file produces a stunning web page for an imaginary company omnifood.   
