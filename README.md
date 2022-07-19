@@ -135,3 +135,9 @@ The contents of this repsitory are as follows:
   vi) File labels.pickle is used to label the categorized images.  
   vii) File trainner.yml contains the data required to ren the application.  
 2) Folder Documents contains the working paper, logbook, EER diagram, flowchart diagram and a powerpoint presentation on the working of the application.  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9) ShopKart
+
+Shopkart is an Application where you can create and log into an account and select and add items to the cart and get the grand total of the cost of the products in the cart.
