@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamanDhavalDesai
 - 👀 I’m interested in Problem Solving.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning Advanced Machine Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/naman-desai-a61985204/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -109,6 +109,7 @@ A repository to store all python programs.
 &nbsp;&nbsp;&nbsp;&nbsp;b) postdatamodification.py  
   v) The code takes an input non searchable pdf file and converts it into a searchable pdf file.  
 * Note - Remove the data from file geckodriver.log before the execution.  
+* Note - The other files in this folder perform tasks as thier file name suggests.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
