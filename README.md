@@ -53,27 +53,27 @@ As mentioned before, one of my core research efforts lies in automating and enha
 
 | Project | Description | Tech Stack & Impact |
 | :--- | :--- | :--- |
-| **[2.5D Intracranial Hemorrhage Classification](./ICH-2.5D-Hybrid-Model)** | CNN-RNN Hybrid model to classify 5 ICH subtypes. Treats CT scans as volumetric triplet sequences to capture inter-slice dependencies. | `PyTorch`, `ResNet-50 + LSTM`. <br> **Impact:** 91.1% Accuracy, 0.95 ROC AUC. |
-| **[2D Intracranial Hemorrhage Classification](./ICH-2D-Detection)** | Established baselines from scratch-built CNNs to pre-trained ResNet-50 models for ICH presence and subtype multi-label classification. | `PyTorch`, `ResNet-50`, `Grad-CAM`. <br> **Impact:** 90% Accuracy with visual interpretability. |
-| **[Bone Fracture Detection](./Bone-Fracture-Detection)** | A multimodal approach fusing radiographic images with tabular metadata (scan angle, hardware status, etc.) to detect fractures across anatomical regions. | `TensorFlow`, `PyTorch`, `ViT`, `ResNet-50`. <br> **Impact:** 89% Accuracy. |
-| **[Bone Marrow Cell Classification](./Bone-Marrow-Classification)** | Tri-class CNN optimized via ablation studies. Integrates an uncertainty estimation method using Softmax Entropy for unfamiliar cells. | `PyTorch`, `CNNs`. <br> **Impact:** Built robust Out-of-Distribution (OOD) Detection. |
-| **[Chest X-Ray Pneumonia Classification](./Chest-X-Ray-Classifier)** | 📄 *Published Research.* Tri-class CNN differentiating between Healthy, Viral and Bacterial Pneumonia to assist antibiotic prescription. | `Keras`, `CNNs`. <br> **Impact:** Scopus-Indexed Publication, 91.2% Specificity. |
+| **[3D Intracranial Hemorrhage Classification](https://github.com/NamanDhavalDesai/3D-Intracranial-Hemorrhage-Detection)** | CNN-RNN Hybrid model to classify 5 ICH subtypes. Treats CT scans as volumetric triplet sequences to capture inter-slice dependencies. | `PyTorch`, `ResNet-50 + LSTM`. <br> **Impact:** 91.1% Accuracy, 0.95 ROC AUC. |
+| **[2D Intracranial Hemorrhage Classification](https://github.com/NamanDhavalDesai/Intracranial-Hemorrhage-Detection)** | Established baselines from scratch-built CNNs to pre-trained ResNet-50 models for ICH presence and subtype multi-label classification. | `PyTorch`, `ResNet-50`, `Grad-CAM`. <br> **Impact:** 90% Accuracy with visual interpretability. |
+| **[Bone Fracture Detection](https://github.com/NamanDhavalDesai/Fracture-Detection)** | A multimodal approach fusing radiographic images with tabular metadata (scan angle, hardware status, etc.) to detect fractures across anatomical regions. | `TensorFlow`, `PyTorch`, `ViT`, `ResNet-50`. <br> **Impact:** 89% Accuracy. |
+| **[Bone Marrow Cell Classification](https://github.com/NamanDhavalDesai/Bone-Marrow-Cell-Classification)** | Tri-class CNN optimized via ablation studies. Integrates an uncertainty estimation method using Softmax Entropy for unfamiliar cells. | `PyTorch`, `CNNs`. <br> **Impact:** Built robust Out-of-Distribution (OOD) Detection. |
+| **[Chest X-Ray Pneumonia Classification](https://github.com/NamanDhavalDesai/Chest-X-Ray-Classifier)** | 📄 *Published Research.* Tri-class CNN differentiating between Healthy, Viral and Bacterial Pneumonia to assist antibiotic prescription. | `Keras`, `CNNs`. <br> **Impact:** Scopus-Indexed Publication, 91.2% Specificity. |
 
 ### 🧠 LLM Optimization & NLP
 Once again, as mentioned before, another domain where my core research efforts lie is, machine learning theory through which I explored the world of LLMs and how various accessibility methods impact various linguistic capabilities.
 
 | Project | Description | Tech Stack & Impact |
 | :--- | :--- | :--- |
-| **[Impact of Quantization and QLoRA on Swedish Language](./Swedish-LLM-Quantization)** | Evaluated Llama-3-8B across 16-bit, 8-bit and 4-bit precisions. Identified "Neutral Class Collapse" and mitigated it via QLoRA fine-tuning. | `Llama-3`, `4-bit NF4`, `QLoRA`. <br> **Impact:** Restored Swedish linguistic capabilities.|
+| **[Impact of Quantization and QLoRA on Swedish Language](https://github.com/NamanDhavalDesai/Impact-of-Quantization-and-QLoRA)** | Evaluated Llama-3-8B across 16-bit, 8-bit and 4-bit precisions. Identified "Neutral Class Collapse" and mitigated it via QLoRA fine-tuning. | `Llama-3`, `4-bit NF4`, `QLoRA`. <br> **Impact:** Restored Swedish linguistic capabilities.|
 
 ### 📊 Data Mining & Software Engineering
 Projects demonstrating my extensive data mining and software engineering experience in building highly optimized algorithms, databases and full-stack applications.
 
 | Project | Description | Tech Stack & Innovation |
 | :--- | :--- | :--- |
-| **[Dynamic Count Demand Planning](./Demand-Planning)** | 🏆 *Global Rank 21 / Regional Rank 2 (Data Mining Cup 2022).* Optimized replenishment forecasting using a modified, parallel Apriori algorithm. | `Python`, `Custom Apriori`. <br> **Impact:** Massively outperformed standard Apriori in time complexity. |
-| **[FR and QR Application](./FR-QR-System)** | End-to-end facial recognition and QR code system designed to automate institutional ID management and verification. | `Python`, `OpenCV`, `GUI`. <br> **Impact:** Bridged hardware/software ideologies. |
-| **[Prism (Players Research & Info Model)](./Prism)** | Secure, personalized database with a Java GUI to search, visualize and compare FIFA Mobile player statistics, improving upon static web databases. | `Java`, `SQL`, `JSoup`. <br> **Impact:** Improved database architecture and web scraping. |
+| **[Dynamic Count Demand Planning](https://github.com/NamanDhavalDesai/Dynamic-Count-Demand-Planning-Study)** | 🏆 *Global Rank 21 / Regional Rank 2 (Data Mining Cup 2022).* Optimized replenishment forecasting using a modified, parallel Apriori algorithm. | `Python`, `Custom Apriori`. <br> **Impact:** Massively outperformed standard Apriori in time complexity. |
+| **[FR and QR Application](https://github.com/NamanDhavalDesai/FRandQR-Application)** | End-to-end facial recognition and QR code system designed to automate institutional ID management and verification. | `Python`, `OpenCV`, `GUI`. <br> **Impact:** Bridged hardware/software ideologies. |
+| **[Prism (Players Research & Info Model)](https://github.com/NamanDhavalDesai/Prism)** | Secure, personalized database with a Java GUI to search, visualize and compare FIFA Mobile player statistics, improving upon static web databases. | `Java`, `SQL`, `JSoup`. <br> **Impact:** Improved database architecture and web scraping. |
 
 ---
 
@@ -153,12 +153,11 @@ Projects demonstrating my extensive data mining and software engineering experie
 ## ⏳ The Archives (Foundational Work & Scripts)
 I have been coding since a young age. Here are the legacy projects and foundational repositories that built my core software engineering and analytical skills:
 
-*   🎮 **[Games](./Games):** *Fun Fact:* Built 9 playable terminal games (Hangman, Chess, Battleships, etc.) totaling **8,500+ lines of Java code** at the age of 14.
-*   🐍 **[Python-Programming](./Python-Programming):** Core Python scripts, including a custom OCR pipeline utilizing Poppler and Tesseract to convert raw PDFs into searchable text.
-*   📈 **[R-Programming](./R-Programming):** Web-scraping scripts, Data arrangement algorithms and Notes developed during the Johns Hopkins Data Science Specialization.
-*   ☕ **[Java-Programming](./Java-Programming):** A collection of textbook and real-world applicable Java scripts.
-*   🛒 **[ShopKart](./ShopKart):** An e-commerce logic application featuring account creation, cart management and dynamic cost calculation.
-*   🌐 **[HTML5andCSS3](./HTML5andCSS3) & [Omnifood](./NamanDhavalDesai.github.io):** A modern, responsive web application built purely with HTML5, CSS3, PHP and basic JS.
-
+*   🎮 **[Games](https://github.com/NamanDhavalDesai/Games):** *Fun Fact:* Built 9 playable terminal games (Hangman, Chess, Battleships, etc.) totaling **8,500+ lines of Java code** at the age of 14.
+*   🐍 **[Python-Programming](https://github.com/NamanDhavalDesai/Python-Programming.):** Core Python scripts, including a custom OCR pipeline utilizing Poppler and Tesseract to convert raw PDFs into searchable text.
+*   📈 **[R-Programming](https://github.com/NamanDhavalDesai/R-Programming):** Web-scraping scripts, Data arrangement algorithms and Notes developed during the Johns Hopkins Data Science Specialization.
+*   ☕ **[Java-Programming](https://github.com/NamanDhavalDesai/Java-Programming):** A collection of textbook and real-world applicable Java scripts.
+*   🛒 **[ShopKart](https://github.com/NamanDhavalDesai/ShopKart):** An e-commerce logic application featuring account creation, cart management and dynamic cost calculation.
+*   🌐 **[HTML5andCSS3](https://github.com/NamanDhavalDesai/HTML5andCSS3) & [Omnifood](https://github.com/NamanDhavalDesai/NamanDhavalDesai.github.io):** A modern, responsive web application built purely with HTML5, CSS3, PHP and basic JS.
 
 ---
